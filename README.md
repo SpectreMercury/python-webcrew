@@ -1,3 +1,3 @@
 # python-webcrew
 
-*Update to Lesson 1, you can find it in ./Document*
+*Update to Lesson 2, you can find it in ./Document*
